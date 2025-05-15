@@ -4,3 +4,4 @@ PyMuPDF
 Pillow
 pandas
 openpyxl
+flask-cors 
