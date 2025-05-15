@@ -1,0 +1,6 @@
+Flask
+pytesseract
+PyMuPDF
+Pillow
+pandas
+openpyxl
